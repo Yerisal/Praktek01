@@ -11,6 +11,8 @@ package praktek01;
  */
 public class ProdukAirMineralAksi {
     public static void main(String[] args) {
-        
+        ProdukAirMineral AQUA = new ProdukAirMineral();
+        ProdukAirMineral LeMinerale = new ProdukAirMineral();
+        ProdukAirMineral PROF = new ProdukAirMineral();
     }
 }
