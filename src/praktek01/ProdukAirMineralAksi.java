@@ -32,5 +32,9 @@ public class ProdukAirMineralAksi {
         PROF.kemasan="Botol Plastik";
         PROF.volume="1500 ml";
         PROF.kadaluarsa="150120";
+        
+        AQUA.cetakInfo();
+        LeMinerale.cetakInfo();
+        PROF.cetakInfo();
     }
 }
